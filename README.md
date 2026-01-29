@@ -2,7 +2,7 @@
 These are the macros for Klipper to make the CoPrint3D system work with the Big Tree Tech Smart Filament Sensor 2.0
 
 The files that need to be added to your 3D printer are
-motion.cfg
+motion.cfg  
 runout.cfg
 extruders.cfg
 
