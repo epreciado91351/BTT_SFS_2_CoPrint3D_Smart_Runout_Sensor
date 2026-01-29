@@ -13,3 +13,5 @@ ecm_1.cfg
 kcm.cfg  
 drivers.cfg  
 cp_macro.cfg  
+  
+You will add your runout or motion sensor pins in the runout.cfg or the motion.cfg file.
