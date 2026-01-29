@@ -5,6 +5,7 @@ The files that need to be added to your 3D printer are
 motion.cfg  
 runout.cfg  
 extruders.cfg  
+save_variables.cfg  
   
 These files (see below) have data that needs to be added and/or changed in the appropriate sections:  
 printer.cfg  
